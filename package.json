@@ -1,8 +1,8 @@
 {
   "name": "chatgpt-free-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "module": "dist/index.js",
   "devDependencies": {
     "bun-plugin-dts": "^0.2.1",
     "bun-types": "latest"
