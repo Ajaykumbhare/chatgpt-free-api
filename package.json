@@ -13,5 +13,8 @@
   "scripts": {
     "build": "bun run src/build.ts"
   },
-  "type": "module"
+  "type": "module",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
