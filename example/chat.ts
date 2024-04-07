@@ -1,4 +1,4 @@
-import { chat } from '../build/index';
+import { chat } from 'chatgpt-free-api';
 
 /**
  * Function to start a chat conversation with a single message.
@@ -34,4 +34,4 @@ async function chainChatMessages() {
 startChat('What is the output of 10 + 20?');
 
 // Start and continue a conversation by chaining multiple messages
-chainChatMessages();
+// chainChatMessages();

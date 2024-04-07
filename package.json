@@ -1,14 +1,17 @@
 {
   "name": "chatgpt-free-api",
-  "module": "index.ts",
-  "type": "module",
-  "scripts": {
-    "build": "bun run build.ts"
-  },
+  "version": "1.0.2",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "devDependencies": {
+    "bun-plugin-dts": "^0.2.1",
     "bun-types": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  }
+  },
+  "scripts": {
+    "build": "bun run src/build.ts"
+  },
+  "type": "module"
 }
