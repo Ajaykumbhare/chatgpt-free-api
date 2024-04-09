@@ -1,8 +1,14 @@
 # chatgpt-free-api
 
-[NPM](https://www.npmjs.com/package/chatgpt-free-api)
-
 Access ChatGPT's free "text-davinci-002-render-sha" model without needing an OpenAI API key or account!
+
+🚨🚫 **IMPORTANT: PLEASE READ BEFORE USING** 🚫🚨
+
+## **Do not use this package for spam!**
+
+This package is intended for educational purposes only. Spamming with this package is strictly prohibited and goes against ethical usage. Respect OpenAI's usage policies and guidelines.
+
+[NPM](https://www.npmjs.com/package/chatgpt-free-api)
 
 ## Features
 

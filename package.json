@@ -1,6 +1,6 @@
 {
   "name": "chatgpt-free-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "devDependencies": {
@@ -23,5 +23,9 @@
     "chatgpt-api",
     "chatgpt-free-api",
     "text-davinci-002-render-sha"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ajaykumbhare/chatgpt-free-api"
+  }
 }
